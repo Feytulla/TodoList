@@ -35,6 +35,6 @@ form {
   justify-content: center;
 }
 input {
-  width: 400px;
+  width: 410px;
 }
 </style>
